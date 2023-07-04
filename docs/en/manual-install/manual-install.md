@@ -5,7 +5,7 @@
 ![App screen](/docs/en/manual-install/img/app-screen.png)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Чтобы вам было удобней, мы подобрали несколько компаний, чьи серверы удовлетворяют требованиям к VPN: серверы располагаются не в России, неограниченный трафик и низкая стоимость. Вы можете выбрать любой другой сервис на своё усмотрение. Amnezia работает с любыми серверами с операционой системой Ubuntu (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
+Чтобы вам было удобней, мы подобрали несколько [amnezia-site-ext-link], чьи серверы удовлетворяют требованиям к VPN: серверы располагаются не в России, неограниченный трафик и низкая стоимость. Вы можете выбрать любой другой сервис на своё усмотрение. Amnezia работает с любыми серверами с операционой системой [about-int-link] (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
 
 - Type some Markdown on the left
 - See HTML in the right
@@ -34,3 +34,6 @@ As [John Gruber] writes on the [Markdown site][df1]
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
+
+[amnezia-site-ext-link]: http://www.reddit.com](https://amnezia-web-nx1r.vercel.app)https://amnezia-web-nx1r.vercel.app
+[about-int-link]: /about
