@@ -8,17 +8,17 @@
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
 
-- Lorem ipsum dolor sit
-- Lorem ipsum dolor sit amet, consectetuer
-- Lorem ipsum
+## Инструкции по использованию приложения
 
-## Features
+- [Автоматическая установка](/docs/en/manual-install/manual-install.md)
+- [Ручная установка](/docs/en/manual-install/manual-install.md)
+- [Смена DNS](/docs/en/manual-install/manual-install.md)
 
-- Lorem ipsum dolor sit amet, consectetuer
-- Lorem ipsum dolor (lorem ipsum dolor sit amet, consectetuer)
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Lorem ipsum dolor sit amet, consectetuer adipiscing.
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+## Инструкции по покупке и настройке хостинга
+
+- [Amazon](/docs/en/manual-install/manual-install.md)
+- [DigitalOcean](/docs/en/manual-install/manual-install.md)
+- [InfernoSolutions](/docs/en/manual-install/manual-install.md)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.
 Dolor **ipsum** consectetuer elit **adipiscing**.
