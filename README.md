@@ -1,4 +1,4 @@
-# Автоматическая настройка
+# Автоматическая настройка 123
 ## _Купите сервер, если его у вас нет_
 
 [//]: # ([![N|Solid]&#40;https://cldup.com/dTxpPi9lDf.thumb.png&#41;]&#40;https://nodesource.com/products/nsolid&#41;)
