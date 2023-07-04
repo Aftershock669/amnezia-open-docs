@@ -35,5 +35,5 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-[amnezia-site-ext-link]: http://www.reddit.com](https://amnezia-web-nx1r.vercel.app)https://amnezia-web-nx1r.vercel.app
+[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
