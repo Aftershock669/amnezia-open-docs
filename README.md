@@ -1,35 +1,28 @@
-# AMNEZIA VPN OPEN DOCUMENTATION 
-
 <p align="center">
-  <img width="300" height="300" src="/logo-with-a.svg">
+  <img width="250" height="250" src="/logo-with-a.svg">
 </p>
 
-Чтобы вам было удобней, мы подобрали несколько компаний, чьи серверы удовлетворяют требованиям к VPN: серверы располагаются не в России, неограниченный трафик и низкая стоимость. Вы можете выбрать любой другой сервис на своё усмотрение. Amnezia работает с любыми серверами с операционой системой Ubuntu (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
+# AMNEZIA VPN OPEN DOCUMENTATION
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+* https://amnezia-web-nx1r.vercel.app
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+
+- Lorem ipsum dolor sit
+- Lorem ipsum dolor sit amet, consectetuer
+- Lorem ipsum
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Lorem ipsum dolor sit amet, consectetuer
+- Lorem ipsum dolor (lorem ipsum dolor sit amet, consectetuer)
+- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+- Lorem ipsum dolor sit amet, consectetuer adipiscing.
+- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.
+Dolor **ipsum** consectetuer elit **adipiscing**.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
