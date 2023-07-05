@@ -7,11 +7,13 @@
 
 > Amnezia работает с любыми серверами с операционой системой Ubuntu (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
 
+&nbsp;
+
 ### Установите приложение Amnezia
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+- **IP** : 192.565.ххx.xxx
+- **User name** (может не быть): root  (или  другое)
+- **Password или SSH-key** : 2f9legf2...
 
 Обычно хостинг-провайдеры VPS  присылают на почту IP, логин и пароль, или код подключения.
 
@@ -19,13 +21,17 @@
 
 ![instruction 2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
 
-### Features
+&nbsp;
+
+### Выберите  тип данных, который у вас есть.
 
 В этом руководстве мы рассмотрим вариант подключения через IP, логин и пароль. 
 
 Если у  вас другие данные  обратитесь к инструкциям для подключения через [файл], [QR-код], и [ключ в виде текста].
 
 ![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
+
+&nbsp;
 
 ### Внесите данные для подключения
 
