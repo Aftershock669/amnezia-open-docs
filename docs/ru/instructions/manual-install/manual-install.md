@@ -7,7 +7,6 @@
 
 > Amnezia работает с любыми серверами с операционой системой Ubuntu (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
 
-\
 &nbsp;
 
 ### Установите приложение Amnezia
@@ -24,9 +23,8 @@
 
 Если такие данные у вас есть, выберете “Уменя есть данные для подключения”.
 
-![instruction 2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
 
-\
 &nbsp;
 
 ### Выберите  тип данных, который у вас есть.
@@ -35,33 +33,52 @@
 
 Если у  вас другие данные  обратитесь к инструкциям для подключения через [файл], [QR-код], и [ключ в виде текста].
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
+![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/2.png)
 
 &nbsp;
 
 ### Внесите данные для подключения
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+Если вы меняли port, укажите его через двоеточие после IP.
+Если в ваших данных подлючения нет  логина, оставьте root по умолчанию. 
+Далее кликните **“Выбрать протокол для установки”**
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+Если вы меняли port, укажите его через двоеточие после IP.
+Если в ваших данных подлючения нет  логина, оставьте root по умолчанию. 
+Далее кликните **“Выбрать протокол для установки”**
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+При выборе низкого уровня блокировок, будет установлен  OpenVPN  без маскировки трафика. Увеличивает уровень приватности, но практически не снижает скорость трафика.
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+![instruction3](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/3.png)
+
+&nbsp;
+
+### Выберите  тип данных, который у вас есть
+
+При выборе высокого уровня контроля будет установлен OpenVPN  в связке с Cloak.  Cloak добавит  маскировку трафика под http трафик. Это позволит посещать  заблокированные сайты и предотвратит распознование и блокировку вашего VPS. Сильно снижает скорость трафика.
+
+При выборе среднего уровня контроля будет установлен OpenVPN в связке с Shadowsocks. Shadowsocks так же маскирует трафик под http трафик, однако эта маскировка рапознается системами анализа некоторых стран с высоким уровнем цензуры. Снижает скорость трафика.
+
+При выборе низкого уровня блокировок, будет установлен  OpenVPN  без маскировки трафика. Увеличивает уровень приватности, но практически не снижает скорость трафика.
+
+![instruction4](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/4.png)
+
+> Если в вашем регионе заблокированы все неподконтрольные  государству сайты и практически все коммерческие и некоммерчесские VPN, рекомендуем с первого подключения выбирать “Высокий уровень цензуры, так как в ином случае IP адрес вашего VPS  может быть распознан и заблокирован системами анализа, и вы не сможете использовать его в будущем.
+
+&nbsp;
+
+### Выберите  тип данных, который у вас есть
+
+![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/5.png)
+
+Нажмите на кнопку **“Подключиться”**.
+
+![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/6.png)
+
+***Готово!***
+
+Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения,  установить  собственный DNS и еще многое другое... 
+Если у вас остались вопросы, обратитесь к FAQ, в наш телеграм чат или к другим разделам инструкции
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
