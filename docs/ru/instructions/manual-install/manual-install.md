@@ -1,17 +1,33 @@
-# Автоматическая настройка
-## _Купите сервер, если его у вас нет_
+# Автоматическая установка
+## Купите сервер, если его у вас нет
 
-[//]: # ([![N|Solid]&#40;https://cldup.com/dTxpPi9lDf.thumb.png&#41;]&#40;https://nodesource.com/products/nsolid&#41;)
-![App screen](/docs/en/manual-install/img/app-screen.png)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+Для создания собственного  VPN , необходимо приобрести виртуальный сервер VPS. Пошаговые инструкции по покупке VPS  у некоторых популярных хостинг-провайдеров можно найти в разделе [Как запустить свой VPN c помощью Amnezia].
 
-Чтобы вам было удобней, мы подобрали несколько [amnezia-site-ext-link], чьи серверы удовлетворяют требованиям к VPN: серверы располагаются не в России, неограниченный трафик и низкая стоимость. Вы можете выбрать любой другой сервис на своё усмотрение. Amnezia работает с любыми серверами с операционой системой [about-int-link] (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
+Если с вами поделились данными для подключения, покупать сервер не нужно.
+
+> Amnezia работает с любыми серверами с операционой системой Ubuntu (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
+
+### Установите приложение Amnezia
 
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
 
-## Features
+Обычно хостинг-провайдеры VPS  присылают на почту IP, логин и пароль, или код подключения.
+
+Если такие данные у вас есть, выберете “Уменя есть данные для подключения”.
+
+![instruction 2](/docs/en/manual-install/img/2.png)
+
+### Features
+
+В этом руководстве мы рассмотрим вариант подключения через IP, логин и пароль. 
+
+Если у  вас другие данные  обратитесь к инструкциям для подключения через [файл], [QR-код], и [ключ в виде текста].
+
+![instruction 1](/docs/en/manual-install/img/1.png)
+
+### Внесите данные для подключения
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
@@ -37,3 +53,7 @@ watch the results in the right.
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
+[Как запустить свой VPN c помощью Amnezia]: https://amnezia-web-nx1r.vercel.app
+[файл]: /about
+[QR-код]: /about
+[ключ в ввиде текста]: /about
