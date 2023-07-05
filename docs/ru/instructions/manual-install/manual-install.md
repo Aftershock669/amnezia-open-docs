@@ -17,7 +17,7 @@
 
 Если такие данные у вас есть, выберете “Уменя есть данные для подключения”.
 
-![instruction 2](/docs/en/manual-install/img/2.png)
+![instruction 2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
 
 ### Features
 
@@ -25,7 +25,7 @@
 
 Если у  вас другие данные  обратитесь к инструкциям для подключения через [файл], [QR-код], и [ключ в виде текста].
 
-![instruction 1](/docs/en/manual-install/img/1.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/manual-install/img/1.png)
 
 ### Внесите данные для подключения
 
