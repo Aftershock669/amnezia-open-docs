@@ -1,11 +1,11 @@
-# Автоматическая настройка
-## _Купите сервер, если его у вас нет_
+# Автоматическая установка
+## Купите сервер, если его у вас нет
 
-![App screen](/docs/en/manual-install/img/1.png)
+![instruction 1](/docs/en/manual-install/img/1.png)
 
-Чтобы вам было удобней, мы подобрали несколько [amnezia-site-ext-link], чьи серверы удовлетворяют требованиям к VPN: серверы располагаются не в России, неограниченный трафик и низкая стоимость. Вы можете выбрать любой другой сервис на своё усмотрение. Amnezia работает с любыми серверами с операционой системой [about-int-link] (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
+Для создания собственного  VPN , необходимо приобрести виртуальный сервер VPS. Пошаговые инструкции по покупке VPS  у некоторых популярных хостинг-провайдеров можно найти в разделе [Как запустить свой VPN c помощью Amnezia].  
 
-![App screen](/docs/en/manual-install/img/2.png)
+![instruction 2](/docs/en/manual-install/img/2.png)
 
 - Type some Markdown on the left
 - See HTML in the right
@@ -37,3 +37,4 @@ watch the results in the right.
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
+[Как запустить свой VPN c помощью Amnezia]: https://amnezia-web-nx1r.vercel.app
