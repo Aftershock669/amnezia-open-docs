@@ -1,9 +1,11 @@
 # Автоматическая настройка
 ## _Купите сервер, если его у вас нет_
 
-![App screen](/docs/en/manual-install/img/app-screen.png)
+![App screen](/docs/en/manual-install/img/1.png)
 
 Чтобы вам было удобней, мы подобрали несколько [amnezia-site-ext-link], чьи серверы удовлетворяют требованиям к VPN: серверы располагаются не в России, неограниченный трафик и низкая стоимость. Вы можете выбрать любой другой сервис на своё усмотрение. Amnezia работает с любыми серверами с операционой системой [about-int-link] (официально поддерживаемая версия - 20.04), так же поддерживается Debian 10.
+
+![App screen](/docs/en/manual-install/img/2.png)
 
 - Type some Markdown on the left
 - See HTML in the right
