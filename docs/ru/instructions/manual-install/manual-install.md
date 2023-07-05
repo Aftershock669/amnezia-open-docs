@@ -56,4 +56,4 @@ watch the results in the right.
 [Как запустить свой VPN c помощью Amnezia]: https://amnezia-web-nx1r.vercel.app
 [файл]: /about
 [QR-код]: /about
-[ключ в ввиде текста]: /about
+[ключ в виде текста]: /about
