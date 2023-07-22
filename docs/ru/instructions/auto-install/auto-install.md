@@ -67,10 +67,6 @@
 
 &nbsp;
 
-<a name="head-anchor"></a>
-
-<h3>adsadasdasdasd</h3>
-
 ### Выберите  тип данных, который у вас есть
 
 ![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/auto-install/img/5.png)
