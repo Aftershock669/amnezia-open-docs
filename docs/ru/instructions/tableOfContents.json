@@ -15,6 +15,11 @@
     "subtext": "С выбором контейнеров"
   },
   {
+    "title": "Поддерживаемые протоколы",
+    "href": "../instructions/protocols",
+    "subtext": ""
+  },
+  {
     "title": "Смена DNS",
     "href": "../instructions/change-dns",
     "subtext": "Тест запроса инструкции которой нет"
