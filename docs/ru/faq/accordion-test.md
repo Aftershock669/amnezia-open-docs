@@ -3,7 +3,6 @@
 
 > ### Амнезия бесплатная?
 > Да, Амнезия абсолютно бесплатное ПО. Вы не подключаетесь к нашим серверам и не платите нам ничего. Однако для создания собственного VPN вам нужно будет  приобрести любой VPS **любого провайдера**, или использовать уже имеющийся.
-
 > asdsadasdsadsada asd asdas dad asd dsadasd ad asdasd asdadsasdasda dasdsadasdasdasdasdasda sa asdas dasd asdsadsadsadas fewsdg dfgrew rweewrerwe wre
 > - asdasd
 > - asdadada daasdasdsad
