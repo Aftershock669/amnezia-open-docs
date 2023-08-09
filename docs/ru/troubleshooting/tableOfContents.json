@@ -1,15 +1,31 @@
 [
   {
     "title": "Не работает то",
-    "href": "../troubleshooting/starter-guide"
+    "href": "../troubleshooting/1"
   },
   {
     "title": "Не работает это",
-    "href": "../troubleshooting/auto-install"
+    "href": "../troubleshooting/2"
+  },
+   {
+    "title": "Не работает ничего",
+    "href": "../troubleshooting/2"
+  },
+   {
+    "title": "Работало, а теперь нет",
+    "href": "../troubleshooting/3"
+  },
+   {
+    "title": "Интернет не загружается",
+    "href": "../troubleshooting/4"
+  },
+   {
+    "title": "Процессор гудит",
+    "href": "../troubleshooting/5"
   },
   {
     "title": "Коды ошибок",
-    "href": "../troubleshooting/auto-install",
+    "href": "../troubleshooting/6",
     "subtext": "Ответы на вопросы связанные с кодами ошибок",
     "submenu": [
       {
