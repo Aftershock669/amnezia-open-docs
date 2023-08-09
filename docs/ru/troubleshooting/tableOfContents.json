@@ -11,7 +11,7 @@
     "title": "Коды ошибок",
     "href": "../troubleshooting/auto-install",
     "subtext": "Ответы на вопросы связанные с кодами ошибок",
-    "submenus": [
+    "submenu": [
       {
         "title": "Ошибка 101",
         "href": "../troubleshooting/303",
