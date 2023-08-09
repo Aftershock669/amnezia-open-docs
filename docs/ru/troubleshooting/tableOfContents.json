@@ -1,12 +1,29 @@
 [
   {
     "title": "Не работает то",
-    "href": "../instructions/starter-guide",
-    "subtext": ""
+    "href": "../troubleshooting/starter-guide",
   },
   {
     "title": "Не работает это",
-    "href": "../instructions/auto-install",
-    "subtext": ""
+    "href": "../troubleshooting/auto-install",
+  },
+  {
+    "title": "Коды ошибок",
+    "href": "../troubleshooting/auto-install",
+    "subtext": "Ответы на вопросы связанные с кодами ошибок",
+    "submenus": [
+      {
+        "title": "Ошибка 101",
+        "href": "../troubleshooting/303",
+      },
+      {
+        "title": "Ошибка 201",
+        "href": "../troubleshooting/201",
+      },
+      {
+        "title": "Ошибка 304",
+        "href": "../troubleshooting/304",
+      }
+    ]
   },
 ]
