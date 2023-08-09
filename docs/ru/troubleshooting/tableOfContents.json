@@ -25,7 +25,7 @@
   },
   {
     "title": "Коды ошибок",
-    "href": "../troubleshooting/7",
+    "href": "../troubleshooting/errorCodes",
     "subtext": "Ответы на вопросы связанные с кодами ошибок",
     "submenu": [
       {
