@@ -21,7 +21,7 @@
 Выберете “У меня есть данные для подключения”.
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/auto-install/img/ai_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/1_auto-install/img/ai_ru_1.png)
 
 > Если вы приобрели VPS для Amnezia у  Inferno solution, вместо IP логина и пароля вам могут отправить  ключ в виде текста примерно в таком формате VPN:///ue34nf\feh.....
 >В этом случае  обратитесь к инструкции  Подключение через ключ в виде текста
@@ -36,7 +36,7 @@
 В этом руководстве мы рассмотрим вариант подключения через IP, логин и пароль, поэтому выбираем их. 
 
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/auto-install/img/ai_ru_2.png)
+![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/1_auto-install/img/ai_ru_2.png)
 
 &nbsp;
 
