@@ -13,7 +13,7 @@
 
 На главном экране  внизу  кликните на значок поделиться (в середине).
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/sharing/img/sc_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/10_sharing-connect/img/sc_ru_1.png)
 
 Нажмите кнопку “Добавить”
 
