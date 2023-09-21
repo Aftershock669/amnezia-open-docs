@@ -17,7 +17,7 @@
 
 Нажмите кнопку “Добавить”
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/sharing/img/sc_ru_2.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/10_sharing-connect/img/sc_ru_2.png)
 
 Далее вам предложат выбрать тип доступа, которым вы собираетесь поделиться:
 Подключение - это доступ без возмжности настройки сервера и выбора и настойки протоколов
@@ -39,19 +39,19 @@
 
 После выбора всех настроек, нажмите на кнопку “Поделиться”.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/sharing/img/sc_ru_3.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/10_sharing-connect/img/sc_ru_3.png)
 
 Вы можете отсканировать QR-code, 
 скопировать код в буфер обмена и поделиться ключем в виде текста.  или
 сохранить файл с настройками , нажав “Поделиться настройками”,
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/sharing/img/sc_ru_4.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/10_sharing-connect/img/sc_ru_4.png)
 
 >Пользователь, с которым вы поделились конфигурацией, сможет  подключиться к VPN, черeз приложение Amnezia, здесь собраны более подробные инструкции: подключение с помошью [QR-кода], [ключа в виде текста], [файла] , или через [альтернативные клиенты].
 
 Теперь если вы  кликните на значок “Поделиться” с главного экрана, вы сможете увидеть всех пользователей, с которыми вы поделились подключением.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/sharing/img/sc_ru_5.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/10_sharing-connect/img/sc_ru_5.png)
 
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
