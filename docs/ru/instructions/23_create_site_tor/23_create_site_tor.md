@@ -26,7 +26,7 @@
 
 Нажмите "Установить" 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/23_create_site_tor/st_ru_5.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/23_create_site_tor/img/st_ru_5.png)
 
 # Настойка сайта в сети TOR
 
@@ -49,11 +49,11 @@
 
 Введите имя пользователя, указанное при регистрации и пароль 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/23_create_site_tor/img/st_ru_10.png)\
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/23_create_site_tor/img/st_ru_10.png)
 
 Вы зашли в консоль для создания сайтов с помощью конструктора  WordPress, более подробную информацию по созданию сайтов на WordPress вы найдете [здесь] 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/23_create_site_tor/img/st_ru_11.png)\
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/23_create_site_tor/img/st_ru_11.png)
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
