@@ -87,5 +87,5 @@
 [QR-кода]: ../instructions/05_qr-code_connection
 [ключа в виде текста]: ../instructions/03_text-key-connection
 [FAQ]: ../faq
-[телеграм чат] https://t.me/amnezia_vpn
-[другим разделам инструкции] : ../instructions
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]: ../instructions
