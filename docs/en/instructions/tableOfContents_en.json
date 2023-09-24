@@ -1,52 +1,52 @@
 [
   {
     "title": "How to run your VPN with Amnezia",
-    "href": "../instructions/0starter-guide",
+    "href": "../instructions/0_starter-guide",
     "subtext": "Buying and setting up hosting for Amnezia"
   },
   {
     "title": "Automatic installation",
-    "href": "../instructions/1_auto-install",
+    "href": "../instructions/01_auto-install",
     "subtext": "Using Setup Wizard"
   },
   {
     "title": "Manual installation",
-    "href": "../instructions/2_manual-install",
+    "href": "../instructions/02_manual-install",
     "subtext": "With protocol selection"
   },
   {
     "title": "Connection with Key as text",
-    "href": "../instructions/3_text-key-connection",
+    "href": "../instructions/03_text-key-connection",
     "subtext": "VPN:///ue34nf\feh....."
   },
   {
     "title": "Connecting with a file",
-    "href": "../instructions/4_file-connection",
+    "href": "../instructions/04_file-connection",
     "subtext": ".vpn, .conf или .ovpn"
   },
   {
     "title": "Connection by QR code",
-    "href": "../instructions/5_qr-code_connection",
+    "href": "../instructions/05_qr-code_connection",
     "subtext": "Using a mobile device"
   },
   {
     "title": "Changing DNS server",
-    "href": "../instructions/6_change-dns",
+    "href": "../instructions/06_change-dns",
     "subtext": "To increase privacy"
   },
   {
     "title": "Removing Amnezia services and protocols from the server",
-    "href": "../instructions/7_delete-servises-amnezia",
+    "href": "../instructions/07_delete-servises-amnezia",
     "subtext": "Deleting all protocols and services"
   },
   {
     "title": "Clearing the cache on the server",
-    "href": "../instructions/8_clean-cash",
+    "href": "../instructions/08_clean-cash",
     "subtext": "May be useful for troubleshooting Amnezia errors"
   },
   {
     "title": "Description of protocols",
-    "href": "../instructions/9_about_protocols",
+    "href": "../instructions/09_about_protocols",
     "subtext": "Open VPN, Wireguard, IKv2, OpenVpn over ShadowSocks, Open Vpn over Cloak"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "title": "Allow screen shots",
-    "href": "../instructions/17_application-autoloading",
+    "href": "../instructions/17_application-autostart",
     "subtext": "Open Amnezia at device startup"
   },
   {
