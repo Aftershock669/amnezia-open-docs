@@ -33,6 +33,8 @@
 Или же использовать VPN  для всех приложений, кроме выбранных. 
 Вы так же можете отключить раздельное туннелирование, переместив оранжевый переключатель в правом верхнем углу. 
 
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/21_split_tuneling/img/st_ru_5.png)
+
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 
