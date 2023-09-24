@@ -1,6 +1,12 @@
 # Connection by QR code
 
 In this case, we will consider the option of connecting via QR code
+
+In this case, we will consider the option of connecting via QR code
+The QR code to connect to your VPN can be shared with you by other users who have created a VPN with Amnezia. 
+You can also share the connection by sending the QR code.
+By scanning the QR-code you can also connect a second device. You can also [connect a second device] by scanning the QR-code.
+
 Do not use a QR code from public sources, they may have been posted with the intention of capturing your personal data. 
 
 
@@ -51,6 +57,7 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app\
 [about-int-link]: /about
+[подключить второе устройство]
 [file]: /about
 [key in the form of text]: /about
 [FAQ]: /about 

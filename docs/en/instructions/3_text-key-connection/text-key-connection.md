@@ -3,6 +3,10 @@
 
 In this instruction we will consider the option of connecting via a key in the form of text.
 The key should look something like this **VPN:///ue34nf\feh.....**  
+
+This key is needed to connect to an existing VPN, it can be shared with you by another user or hosting provider, 
+that provides a preconfigured VPN server based on your VPS.
+
 Do not use keys from public sources, they may have been posted for the purpose of intercepting your personal data.
 
 >  Amnezia works with any server running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
@@ -62,4 +66,5 @@ If you still have questions, check out the [FAQ], our  [Telegram chat] or other 
 [FAQ]: /about 
 [Telegram chat]: /about 
 [sections of the instructions]: /about
-
+[manual]
+[automatic installation]

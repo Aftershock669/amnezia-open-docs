@@ -1,6 +1,11 @@
 # Подключение через QR-код
 
 В данном случае мы рассмотрим вариант подключения через QR-код
+QR-кодом для подключения к своему VPN с вами могут поделиться другие пользователи, создавшие VPN с помощью Amnezia. 
+Вы так же можете поделиться подключение отправив QR-код.
+Отсканировав QR-code вы так же можете [подключить второе устройство].
+
+
 Не используйте  QR-код из публичных источников, они могли быть размещены с целью перехвата ваших личных данных. 
 
 
@@ -37,11 +42,11 @@
 На этом экране вы можете посмотреть содержимое QR-кода
 Далее кликните “Подключиться”
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/qr-code_connection/img/qrc_ru_4.png))
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/qr-code_connection/img/qrc_ru_4.png)
 
 Дождитесь пока Amnezia настроит ваш VPN.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/qr-code_connection/img/qrc_ru_5.png))
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/qr-code_connection/img/qrc_ru_5.png)
 
 Нажмите на кнопку “Подключиться”. 
 
@@ -53,6 +58,7 @@
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app\
 [about-int-link]: /about
+[подключить второе устройство]
 [файла]: /about
 [QR-кода]: /about
 [ключа в виде текста]: /about

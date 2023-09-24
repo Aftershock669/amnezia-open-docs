@@ -3,7 +3,9 @@
 
 In this case, we will consider the option of connecting via a configuration file.
 
- The file should be in .vpn, .conf or .ovpn format 
+The file must be in .vpn format for Amnezia, .conf for the Wireguard client, or .ovpn for the OpenVPN client
+It can be shared with you by any user who has created a VPN using Amnezia client.
+You can also share the configuration file of your VPN with any user you trust.
 
 Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
 
@@ -58,6 +60,7 @@ If you still have questions, check out the [FAQ], our [Telegram chat] or [other 
 [QR code]: /about
 [text key]: /about
 [manual]: /about 
+[automatic installation]
 [FAQ]: /about 
 [Telegram chat]: /about 
 [other sections of the manual]: /about
