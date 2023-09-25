@@ -98,6 +98,6 @@ OpenVPN over Cloak - это OpenVPN  с протоколом ShadowSocks и c д
 [FAQ]: /about 
 [телеграм чат]: /about 
 [другим разделам инструкции]: /about
-[файла]
-[ключа в виде текста]
-[qr-кода]
+[файла]: /about 
+[ключа в виде текста]: /about 
+[qr-кода]: /about 
