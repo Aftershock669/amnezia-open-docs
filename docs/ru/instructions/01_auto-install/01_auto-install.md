@@ -67,7 +67,6 @@
 
 При выборе **низкого уровня контроля**, будет установлен  OpenVPN  без маскировки трафика. Подойдет для регионов, где не блокируются VPN -приложения  и VPN- протоколы. Повышает уровень приватности пользователя, и дополнительно шифрует трафик. 
 
-![instruction4](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_5.png)
 
 >  Если в вашем регионе заблокированы все неподконтрольные государству сайты и практически все коммерческие и некоммерчесские VPN, рекомендуем с первого подключения выбрать Высокий уровень контроля, и не устанавливать другие протоколы, так как в ином случае IP адрес вашего VPS может быть распознан и заблокирован системами анализа и вы не сможете использовать его в будущем.  
 
@@ -75,11 +74,11 @@
 
 ### Дождитесь пока Amnezia настроит ваш VPN.
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_6.png)
+![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_5.png)
 
 Нажмите на кнопку **“Подключиться”**.
 
-![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_7.png.png)
+![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_6.png.png)
 
 Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения,  установить  собственный DNS и еще многое другое... 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции].
