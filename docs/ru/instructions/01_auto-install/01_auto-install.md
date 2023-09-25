@@ -78,7 +78,7 @@
 
 Нажмите на кнопку **“Подключиться”**.
 
-![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_6.png.png)
+![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_6.png)
 
 Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения,  установить  собственный DNS и еще многое другое... 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции].
