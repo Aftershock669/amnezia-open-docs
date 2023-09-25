@@ -13,7 +13,7 @@
 
 Выберете сервер, который вы хотите проверить на наличие установленных сервисов.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/26_cheking-serverimg/cs_ru_2.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/26_cheking-server/img/cs_ru_2.png)
 
 Выберете вкладку “Данные”, 
 Во вкладке “Данные” выберете  “Проверить сервер на наличие установленных сервисов Amnezia”. 
