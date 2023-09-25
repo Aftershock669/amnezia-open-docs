@@ -47,7 +47,7 @@
 Нажмите на кнопку  “Подключиться” на главном экране.
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_6.pn)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_6.png)
 
 
 Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения,  установить  собственный DNS и еще многое другое... 

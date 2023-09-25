@@ -16,7 +16,7 @@
 
 Выберете сервер с файловым хранилищем “STFP”.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/25_stfp_mounte_diskimg/stftpmd_ru_3png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_3.png)
 
 
 Выберете вкладку Сервисы, 

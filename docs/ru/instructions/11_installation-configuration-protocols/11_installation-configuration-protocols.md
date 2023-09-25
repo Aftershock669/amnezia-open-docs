@@ -25,7 +25,7 @@ OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec и OpenVPN с плагином Cloak
 
 В этом случае при нажатии на названии  протокола, вы попадете в меню его настроек . 
 
->Инструкция как изменить протокол, и подсоединиться к VPN с выбранным протоколом [здесь].
+>Инструкция как подключатся протоколам [здесь].
 
 ![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_3.png)
 
