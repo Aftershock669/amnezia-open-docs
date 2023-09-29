@@ -24,7 +24,7 @@
 
 Будут удалены все изменения на сервере,  сделанные с помощью  клиента Amnezia. 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_ru_3.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_ru_4.png)
 
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
