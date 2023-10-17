@@ -63,9 +63,9 @@ If you select a **high level of control**, OpenVPN will be installed in conjunct
 
 If you choose the **medium level of control**, OpenVPN will be installed in conjunction with ShadowSocks. ShadowSocks like Cloak masks traffic as http traffic.  However, ShadowSocks masking is recognized by traffic analysis systems in some highly censored countries, so we do not recommend using OpenVPN over ShadowSocks in regions where other VPNs are blocked.  
 
-If you select **low level of control**,
-OpenVPN without traffic masking will be installed.
-Suitable for regions where VPN applications and VPN protocols are not blocked.
+If you select **low level of control**,\
+OpenVPN without traffic masking will be installed.\
+Suitable for regions where VPN applications and VPN protocols are not blocked.\
 Increases the level of user privacy, and additionally encrypts traffic.
 
 If you choose to configure VPN yourself, you will be offered a list of protocols. For more details on how to configure it yourself, please read the manual configuration instructions.
